@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Lokesh
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: LBHARANI
+Implementation-Vendor-Id: com.lokesh.app
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://jeani.in
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
